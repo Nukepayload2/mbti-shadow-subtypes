@@ -2,6 +2,8 @@
 
 基于约翰·毕比八功能模型，测出你在压力下的阴影人格类型。每个 MBTI 类型有四个子类型来反映压力下的状态，共 64 种类型。
 
+暂定英文名：SPTI（Shadow Personality Type Indicator）
+
 ## 构建依赖
 
 前端：pnpm v10
