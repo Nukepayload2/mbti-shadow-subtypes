@@ -11,7 +11,6 @@ export {}
 /* prettier-ignore */
 declare module 'vue' {
   export interface GlobalComponents {
-    HelloWorld: typeof import('./src/components/HelloWorld.vue')['default']
     QuestionCard: typeof import('./src/components/QuestionCard.vue')['default']
     VanConfigProvider: typeof import('vant/es')['ConfigProvider']
   }
